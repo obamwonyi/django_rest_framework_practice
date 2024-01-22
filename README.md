@@ -32,7 +32,7 @@
     on the web url add <i>/api/location (http://127.0.0.1:8000/api/location)</i> to got to the location page ( for viewing(R) locations ), in this page there is a form field to add locations(C). When you pass the id giving in the view (<i>http://127.0.0.1:8000/api/location</i>) page json output to the url , you go to a page where you can update(U) and delete(D) a particular location.
 </li>
 <li>
-        The same approach can be taken for creating , reading, updating and deleting items from the route <i/http://127.0.0.1:8000/api/item</i>
+        The same approach can be taken for creating , reading, updating and deleting items from the route <i/>http://127.0.0.1:8000/api/item</i>
 </li>
 
 </ul>
